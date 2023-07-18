@@ -1,9 +1,9 @@
-# Digesh Kapadiya
+# Demo
 
-## 1008
+## Subheader
 
-Git hub demo.
+Watch tutorial on youtube.
 
-## local modiified
+## Local Development
 
-1. index.md
+1. Open index.html in your browser
